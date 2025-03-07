@@ -14,11 +14,11 @@ A developer passionate about blockchain technology and artificial intelligence. 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ##     Github Stats
-<div style="display: flex; justify-content: space-between;">
+<div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Etienne2707&theme=radical&show_icons=true&hide_border=true&count_private=true" width="57%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etienne2707&theme=radical&show_icons=true&hide_border=true" width="25%" />
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/b10Mm.gif" alt="Chicken Joe" width="400"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhyc3B6azR4OTlrejRmZzUxd2p4YWFuZG05MmMzemlveW5kbnE0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mshg2VcJU2Cl2/giphy.gif" width="800"/>
 </div>
